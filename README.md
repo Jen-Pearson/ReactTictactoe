@@ -1,2 +1,0 @@
-# ReactTictactoe
-Created with CodeSandbox
